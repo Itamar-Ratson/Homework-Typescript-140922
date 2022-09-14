@@ -2,7 +2,7 @@
 Typescript practice
 
  * CARS CLASS
- * Fields: manufactorer, model, color, engine volume (max 4000)
+ * Fields: brand, model, color, engine volume (max 4000)
  * Methods: getters and setters, ctor, show all details
  *
  * RaceCar is derived from Car
