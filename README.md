@@ -1,7 +1,9 @@
 # Homework-Typescript-140922
 Typescript practice
 
- * CARS CLASS
+ * CARS
+
+ * Car Class
  * Fields: brand, model, color, engine volume (<4000)
  * Methods: getters and setters, ctor, show all details
  
@@ -13,7 +15,9 @@ Typescript practice
  ***************************************************************
  
  
- * INSTURMENTS CLASS
+ * INSTURMENTS
+
+ * Insturment Class
  * Fields: model, brand, color
  
  * Guitar is derived from Insturments
