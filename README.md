@@ -1,7 +1,6 @@
 # Homework-Typescript-140922
 Typescript practice
 
-/**
  * CARS CLASS
  * Fields: manufactorer, model, color, engine volume (max 4000)
  * Methods: getters and setters, ctor, show all details
@@ -11,11 +10,11 @@ Typescript practice
  ** num of races it was in, max 100.
  *
  * Make an object to test it.
- */
+ 
  
  ***************************************************************
  
- /**
+ 
  * INSTURMENTS CLASS
  * Fields: model,brand,color
  *
@@ -36,4 +35,3 @@ Typescript practice
  * ctor
  * display all details
  * makesound - makes sound appropriate to the insturment ('making drum sound')
- */
