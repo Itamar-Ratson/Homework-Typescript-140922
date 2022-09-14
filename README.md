@@ -4,9 +4,8 @@ Typescript practice
  * CARS
 
  * Car Class. Fields: brand, model, color, engine volume (<4000)
- * Methods: getters and setters, ctor, show all details
- 
  * RaceCar is derived from Car. Fields: max speed (200 to 500), num of races it was in (<100)
+ * Methods: getters and setters, ctor, show all details
  * Make an object to test it.
  
  
