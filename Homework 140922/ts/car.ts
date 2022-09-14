@@ -1,15 +1,3 @@
-/**
- * CARS CLASS
- * Fields: manufactorer, model, color, engine volume (max 4000)
- * Methods: getters and setters, ctor, show all details
- *
- * RaceCar is derived from Car
- ** max speed: 200 - 500
- ** num of races it was in, max 100.
- *
- * Make an object to test it.
- */
-
 class Car {
     private _brand: string;
     private _model: string;
