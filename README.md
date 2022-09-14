@@ -2,12 +2,12 @@
 Typescript practice
 
  * CARS CLASS
- * Fields: brand, model, color, engine volume (max 4000)
+ * Fields: brand, model, color, engine volume (<4000)
  * Methods: getters and setters, ctor, show all details
  *
  * RaceCar is derived from Car
- ** max speed: 200 - 500
- ** num of races it was in, max 100.
+ * max speed: 200 - 500
+ * num of races it was in, max 100.
  *
  * Make an object to test it.
  
@@ -27,7 +27,7 @@ Typescript practice
  * Piano is derived from Insturments
  * Fields: cords(20 to 150)
  *
- * Wing Piano is derived from Piano
+ * Grand Piano is derived from Piano
  * length(>0)
  *
  * Methods:
