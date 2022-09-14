@@ -11,7 +11,7 @@
  * Piano is derived from Insturments
  * Fields: cords(20 to 150)
  *
- * Wing Piano is derived from Piano
+ * Grand Piano is derived from Piano
  * length(>0)
  *
  * Methods:
