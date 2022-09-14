@@ -4,8 +4,8 @@
  * Methods: getters and setters, ctor, show all details
  *
  * RaceCar is derived from Car
- ** max speed: 200 - 500
- ** num of races it was in, max 100.
+ * max speed: 200 - 500
+ * num of races it was in, max 100.
  *
  * Make an object to test it.
  */
