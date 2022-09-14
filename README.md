@@ -8,7 +8,7 @@ Typescript practice
  * Methods: getters and setters, ctor, show all details
  
  * RaceCar is derived from Car
- * Fields: max speed (200 to 500), num of races it was in (<100).
+ * Fields: max speed (200 to 500), num of races it was in (<100)
  * Make an object to test it.
  
  
@@ -32,5 +32,4 @@ Typescript practice
  * Grand Piano is derived from Piano
  * Fields: length (>0)
  
- * Methods:
- * getters and setters, ctor, display all details, makesound - makes sound appropriate to the insturment ('making drum sound')
+ * Methods: getters and setters, ctor, display all details, makesound - makes sound appropriate to the insturment ('making drum sound')
