@@ -22,8 +22,8 @@ class Car {
     get engineVolume(): number {
         return this._engineVolume;
     }
-    set brand(manufactorer) {
-        this.brand = manufactorer;
+    set brand(brand) {
+        this.brand = brand;
     }
     set model(model) {
         this.model = model;
