@@ -19,6 +19,9 @@ class Drum extends Insturment {
         super.display();
         console.log(`Diameter: ${this.diameter}`);
     }
+    makeSound(): void {
+        console.log('Badum tss');
+    }
 }
 
 const myDrum = new Drum('Mapex', 'Drum-BPDLV728XBPW', 'Maple', 22);

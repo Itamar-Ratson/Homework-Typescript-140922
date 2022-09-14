@@ -19,6 +19,9 @@ class Piano extends Insturment {
         super.display();
         console.log(`Cords: ${this.cords}`);
     }
+    makeSound(): void {
+        console.log('Piano sounds');
+    }
 }
 
 // const myPiano = new Piano('Kawai', 'Piano-CA49', 'Black', 88);

@@ -19,6 +19,9 @@ class Guitar extends Insturment {
         super.display();
         console.log(`Strings: ${this.strings}`);
     }
+    makeSound(): void {
+        console.log('Guitar sound');
+    }
 }
 
 const myGuitar = new Guitar('Schecter', 'Guitar-3Pc', '	Gloss Black', 6);

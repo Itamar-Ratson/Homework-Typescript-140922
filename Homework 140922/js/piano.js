@@ -25,5 +25,8 @@ class Piano extends insturment_1.default {
         super.display();
         console.log(`Cords: ${this.cords}`);
     }
+    makeSound() {
+        console.log('Piano sounds');
+    }
 }
 exports.default = Piano;

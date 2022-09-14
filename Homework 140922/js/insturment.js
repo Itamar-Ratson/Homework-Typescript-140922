@@ -27,5 +27,8 @@ class Insturment {
     display() {
         console.log(`Brand: ${this.brand}, Model: ${this.model}, Color: ${this.color}`);
     }
+    makeSound() {
+        console.log('Insturment sounds');
+    }
 }
 exports.default = Insturment;

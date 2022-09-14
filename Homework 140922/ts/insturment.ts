@@ -1,26 +1,3 @@
-/**
- * INSTURMENTS CLASS
- * Fields: model,brand,color
- *
- * Guitar is derived from Insturments
- * Fields: strings(4 to 8)
- *
- * Drum is derived from Insturments
- * Fields: circumference(>0)
- *
- * Piano is derived from Insturments
- * Fields: cords(20 to 150)
- *
- * Grand Piano is derived from Piano
- * length(>0)
- *
- * Methods:
- * getters,setters
- * ctor
- * display all details
- * makesound - makes sound appropriate to the insturment ('making drum sound')
- */
-
 class Insturment {
     private _brand: string;
     private _model: string;
@@ -50,6 +27,9 @@ class Insturment {
     }
     display(): void {
         console.log(`Brand: ${this.brand}, Model: ${this.model}, Color: ${this.color}`);
+    }
+    makeSound(): void {
+        console.log('Insturment sounds');
     }
 }
 

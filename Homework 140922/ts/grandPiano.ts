@@ -19,7 +19,11 @@ class GrandPiano extends Piano {
         super.display();
         console.log(`Length: ${this.length}`);
     }
+    makeSound(): void {
+        console.log('Grand piano sounds');
+    }
 }
 
 const myGrandPiano = new GrandPiano('Linke', 'GrandPiano-B079B4RNXW', 'Mahogany', 90, 71);
 myGrandPiano.display();
+myGrandPiano.makeSound();
